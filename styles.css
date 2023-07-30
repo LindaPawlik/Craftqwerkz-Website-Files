@@ -12,8 +12,8 @@ body {
 
 
 
-.nav .ul {}
+.nav .ul {
 
-.navbar.navbar-expand-lg.navbar-dark.bg-transparent .container #navbarSupportedContent {
-	color: rgba(249, 249, 249, 1.00);
-}
+	.navbar.navbar-expand-lg.navbar-dark.bg-transparent .container #navbarSupportedContent {
+		color: rgba(249, 249, 249, 1.00);
+	}
