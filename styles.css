@@ -1,14 +1,14 @@
 body {
-	background-color: rgba(88, 177, 156);
+	background-color: 2ad3b9;
 	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
 	text-align: left;
 	border-radius: 10px;
-	border-color: rgba(49, 112, 122, 1.00);
+	border-color: 2ad3b9;
 	font-size: 18px;
-	color: rgba(255, 255, 255, 1.00);
+	color: white;
 }
 
 
 .navbar.navbar-expand-lg.navbar-dark.bg-transparent .container #navbarSupportedContent {
-	color: rgba(249, 249, 249, 1.00);
+	color: white;
 }
