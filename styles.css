@@ -12,3 +12,16 @@ body {
 .navbar.navbar-expand-lg.navbar-dark.bg-transparent .container #navbarSupportedContent {
 	color: black;
 }
+
+.card-body {
+	color: black
+}
+
+h2.text-center {
+	background-color: 2ad3b9;
+	color: black;
+}
+
+h6 {
+	color: black
+}
