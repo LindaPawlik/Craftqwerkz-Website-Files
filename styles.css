@@ -1,11 +1,8 @@
 body {
-	background-color: 2ad3b9;
 	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
 	text-align: left;
 	border-radius: 10px;
-	border-color: 2ad3b9;
-	font-size: 18px;
-	color: white;
+	color: black;
 }
 
 
@@ -18,10 +15,35 @@ body {
 }
 
 h2.text-center {
-	background-color: 2ad3b9;
 	color: black;
+	background-color: rgb(83, 160, 134);
+	padding: 1rem;
+	border: solid black 1px;
+	border-radius: 7px;
 }
 
 h6 {
 	color: black
+}
+
+.rounded-circle {
+	border: solid black 1px;
+	margin: auto;
+}
+
+.container {
+	width: 100%;
+	padding-right: 15px;
+	padding-left: 15px;
+	margin-right: auto;
+	margin-left: auto;
+	border: solid teal .5px;
+	margin-top: 2rem;
+	padding-top: .5rem;
+	border-radius: .5rem;
+}
+
+.btn-primary {
+	background-color: rgb(83, 160, 134);
+	border-color: aqua;
 }
