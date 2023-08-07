@@ -6,10 +6,6 @@ body {
 }
 
 
-.navbar.navbar-expand-lg.navbar-dark.bg-transparent .container #navbarSupportedContent {
-	color: black;
-}
-
 .card-body {
 	color: black
 }
@@ -69,4 +65,12 @@ h6 {
 	text-decoration-line: underline;
 	padding-top: 2px;
 	padding-bottom: 5px;
+}
+
+li.nav-item dropdown {
+	color: black;
+}
+
+.dropdown-menu {
+	color: black;
 }
