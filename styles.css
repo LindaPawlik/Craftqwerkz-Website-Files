@@ -82,14 +82,13 @@ body {
 }
 
 .navlinks {
-	width: 770px;
-	height: 50px;
-	margin: 20px auto;
+	width: span;
 	border-radius: 3px;
+
 }
 
 #nav {
-	display: inline-block;
+	display: span;
 	width: 100%;
 	margin: 0px auto;
 	padding: 0;
@@ -98,6 +97,7 @@ body {
 	-webkit-border-radius: 7px;
 	border-radius: 10px;
 	box-shadow: 0 2px 2px rgba(0, 0, 0, .5);
+
 }
 
 #nav li {
