@@ -105,6 +105,7 @@ body {
 	float: left;
 	position: relative;
 	list-style: none;
+	text-align: center;
 }
 
 #nav a {
@@ -169,6 +170,7 @@ body {
 	padding: 0;
 	width: 175px;
 	position: absolute;
+	z-index: 1;
 	background: #aabbcc;
 	border: 1px solid #7788aa;
 	border-radius: 10px;
