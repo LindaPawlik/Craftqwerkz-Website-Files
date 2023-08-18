@@ -79,6 +79,7 @@ body {
 }
 
 .navlinks {
+
 	width: 100%;
 	border-radius: 3px;
 	color: #fafafa;
@@ -93,6 +94,8 @@ body {
 	box-shadow: 0 2px 2px rgba(0, 0, 0, .5);
 	color: rgb(3, 3, 3);
 
+	text-align: center;
+	justify-content: center;
 
 }
 
@@ -109,6 +112,7 @@ body {
 #nav a {
 	font-weight: bold;
 	color: rgb(0, 0, 0);
+	color: #000000;
 	text-decoration: none;
 	display: block;
 	padding: 8px 20px;
@@ -168,6 +172,7 @@ body {
 	padding: 0;
 	width: 175px;
 	position: absolute;
+	z-index: 1;
 	background: #aabbcc;
 	border: 1px solid #7788aa;
 	border-radius: 10px;
@@ -175,7 +180,8 @@ body {
 	-moz-border-radius: 10px;
 	-webkit-border-radius: 10px;
 	box-shadow: 0 2px 2px rgba(0, 0, 0, .5);
-	-moz-box-shadow: 0 2px 2px rgba(0, 0, 0, .5)113 -webkit-box-shadow:0 2px 2px rgba(0, 0, 0, .5);
+	-webkit-box-shadow: 0 2px 2px;
+	rgba(0, 0, 0, .5);
 	-moz-transition: opacity .25s linear, visibility .1s linear .1s;
 	-webkit-transition: opacity .25s linear, visibility .1s linear .1s;
 	-o-transition: opacity .25s linear, visibility .1s linear .1s;
